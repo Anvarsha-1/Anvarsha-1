@@ -1,21 +1,99 @@
-<h1 align="center">Hi 👋, I'm Anvarsha</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+# Hi there 👋 I'm Anvarsha
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anvarsha-1&label=Profile%20views&color=0e75b6&style=flat" alt="anvarsha-1" /> </p>
+🚀 Full Stack Web Developer
+💻 JavaScript | Node.js | Express | MongoDB
+📚 Currently learning advanced backend architecture and system design
+🛠 Building scalable real-world applications
+⚡ Focused on practical development and continuous improvement
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anvarsha-1" alt="anvarsha-1" /></a> </p>
+---
 
-- 📫 How to reach me **anvarshaanvar576@gmail.com**
+## About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anvarsha-b-78a049317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anvarsha-b-78a049317/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/anvarsha-2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/anvarsha-2/" height="30" width="40" /></a>
+I'm a self-driven full-stack developer from **Kerala, India** with a strong interest in backend engineering and scalable web application development.
 
+My primary stack includes **JavaScript, Node.js, Express.js, MongoDB, EJS**, and frontend technologies like HTML, CSS, and Bootstrap. I actively build production-style projects rather than tutorial-only applications.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+I prefer understanding the deeper concepts behind technologies instead of memorising syntax. My goal is to become a highly skilled software engineer capable of building efficient and scalable systems.
 
+---
 
+## 🛠 Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anvarsha-1&" alt="anvarsha-1" /></p>
+**Frontend**
+- HTML5, CSS3, JavaScript (ES6+)
+- Bootstrap, EJS, Responsive Design
+
+**Backend**
+- Node.js, Express.js
+
+**Database**
+- MongoDB, Mongoose, MongoDB Aggregation Pipeline
+
+**Tools & Platforms**
+- Git, GitHub, Postman, Cloudinary, VS Code
+
+**Currently Learning**
+- Advanced Node.js internals
+- System Design Fundamentals
+- DSA with JavaScript
+- AI Integration
+- Scalable Backend Architecture
+
+---
+
+## 🚀 Projects
+
+### Giftora — eCommerce Platform
+
+A complete MERN-style eCommerce application built with production intent. Covers the full lifecycle from user authentication to admin management to optimised database queries.
+
+**Key implementations:**
+- Authentication and authorisation (JWT + bcrypt)
+- Admin dashboard with product and category management
+- AJAX-powered filtering, searching, sorting, and pagination
+- Cloudinary image upload with CropperJS integration
+- MongoDB aggregation and optimised database queries
+- Dynamic EJS rendering with responsive UI
+
+`Node.js` `Express.js` `MongoDB` `EJS` `AJAX` `Cloudinary` `Bootstrap`
+
+---
+
+### Authentication System
+
+JWT-based authentication system with bcrypt password encryption and role-based access control for admin and user management.
+
+`Node.js` `JWT` `bcrypt` `Express.js`
+
+---
+
+## 📊 GitHub Stats
+
+| Metric | Value |
+|--------|-------|
+| Main Project | Giftora eCommerce Platform |
+| Focus Area | Backend Development |
+| Learning Goal | Scalable System Architecture |
+
+---
+
+## 🔍 Currently Exploring
+
+- Node.js internals — event loop and async architecture
+- System design fundamentals
+- Data structures and algorithms with JavaScript
+- AI-integrated applications
+- MongoDB performance optimisation
+
+---
+
+## 📬 Connect With Me
+
+- 🐙 GitHub: [github.com/Anvarsha-1](https://github.com/Anvarsha-1)
+- 💼 LinkedIn: [linkedin.com/in/anvarsha-b-78a049317](https://www.linkedin.com/in/anvarsha-b-78a049317/)
+- 📧 Email: anvarshaanvar576@gmail.com
+
+---
+
+*"I continuously improve my backend architecture skills, database optimisation knowledge, problem-solving ability, and frontend development practices."*
