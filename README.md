@@ -125,9 +125,9 @@ Static front-end recreations focused on layout precision, responsive design, and
 
 <div align="center">
 
-![Anvarsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anvarsha-1&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anvarsha-1&layout=compact&theme=github_dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Anvarsha-1&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anvarsha-1&theme=github_dark)
 
 </div>
 
