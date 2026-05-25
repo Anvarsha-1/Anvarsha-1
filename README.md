@@ -19,7 +19,7 @@ I'm a self-driven full-stack developer focused on building scalable, real-world 
 
 I care about understanding *why* things work, not just memorising syntax. My goal is to grow into a well-rounded engineer capable of architecting efficient systems from scratch.
 
-- 🔭 Currently building **[Giftora](https://giftora-ecom-app.vercel.app)** — a production-grade eCommerce platform
+- 🔭 Currently building **[Giftora]([https://giftora-ecom-app.vercel.app](https://giftora-ecomapp.onrender.com))** — a production-grade eCommerce platform
 - 🧠 Actively practising DSA in JavaScript (weekly structured commits)
 - ⌨️ Building typing speed daily on TypingClub (1hr/day discipline)
 - 📍 From Pathanamthitta, Kerala — currently away for studies
