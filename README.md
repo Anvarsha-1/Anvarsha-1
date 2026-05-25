@@ -1,100 +1,146 @@
-# Hi there 👋 I'm Anvarsha
+<div align="center">
 
-🚀 Full Stack Web Developer
-💻 JavaScript | Node.js | Express | MongoDB
-📚 Currently learning advanced backend architecture and system design
-🛠 Building scalable real-world applications
-⚡ Focused on practical development and continuous improvement
+# Anvarsha · Full-Stack Developer
+
+**Kerala, India &nbsp;·&nbsp; BCA Graduate &nbsp;·&nbsp; Building production-grade web applications**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anvarsha-b-78a049317/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Anvarsha-1)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anvarshaanvar576@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/)
+
+</div>
 
 ---
 
 ## About Me
 
-I'm a self-driven full-stack developer from **Kerala, India** with a strong interest in backend engineering and scalable web application development.
+I'm a self-driven full-stack developer focused on building scalable, real-world web applications rather than tutorial clones. My primary stack is **JavaScript end-to-end** — Node.js on the backend, MongoDB for data, and EJS/Tailwind on the frontend.
 
-My primary stack includes **JavaScript, Node.js, Express.js, MongoDB, EJS**, and frontend technologies like HTML, CSS, and Bootstrap. I actively build production-style projects rather than tutorial-only applications.
+I care about understanding *why* things work, not just memorising syntax. My goal is to grow into a well-rounded engineer capable of architecting efficient systems from scratch.
 
-I prefer understanding the deeper concepts behind technologies instead of memorising syntax. My goal is to become a highly skilled software engineer capable of building efficient and scalable systems.
+- 🔭 Currently building **[Giftora](https://giftora-ecom-app.vercel.app)** — a production-grade eCommerce platform
+- 🧠 Actively practising DSA in JavaScript (weekly structured commits)
+- ⌨️ Building typing speed daily on TypingClub (1hr/day discipline)
+- 📍 From Pathanamthitta, Kerala — currently away for studies
 
 ---
 
-## 🛠 Tech Stack
-
-**Frontend**
-- HTML5, CSS3, JavaScript (ES6+)
-- Bootstrap, EJS, Responsive Design
+## Tech Stack
 
 **Backend**
-- Node.js, Express.js
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Passport.js](https://img.shields.io/badge/Passport.js-34E27A?style=flat-square&logo=passport&logoColor=white)
+![bcrypt](https://img.shields.io/badge/bcrypt-003A70?style=flat-square&logoColor=white)
 
 **Database**
-- MongoDB, Mongoose, MongoDB Aggregation Pipeline
 
-**Tools & Platforms**
-- Git, GitHub, Postman, Cloudinary, VS Code
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logoColor=white)
 
-**Currently Learning**
-- Advanced Node.js internals
-- System Design Fundamentals
-- DSA with JavaScript
-- AI Integration
-- Scalable Backend Architecture
+**Frontend**
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![EJS](https://img.shields.io/badge/EJS-A9A9A9?style=flat-square&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-## 🚀 Projects
+**Tools & Services**
 
-### Giftora — eCommerce Platform
-
-A complete MERN-style eCommerce application built with production intent. Covers the full lifecycle from user authentication to admin management to optimised database queries.
-
-**Key implementations:**
-- Authentication and authorisation (JWT + bcrypt)
-- Admin dashboard with product and category management
-- AJAX-powered filtering, searching, sorting, and pagination
-- Cloudinary image upload with CropperJS integration
-- MongoDB aggregation and optimised database queries
-- Dynamic EJS rendering with responsive UI
-
-`Node.js` `Express.js` `MongoDB` `EJS` `AJAX` `Cloudinary` `Bootstrap`
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF)
+![CropperJS](https://img.shields.io/badge/CropperJS-FF6B6B?style=flat-square&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### Authentication System
+## Projects
 
-JWT-based authentication system with bcrypt password encryption and role-based access control for admin and user management.
+### 🛍️ Giftora — eCommerce Platform
+> **[Live Demo](https://giftora-ecom-app.vercel.app) · [Repository](https://github.com/Anvarsha-1/Giftora-EcomApp)**
 
-`Node.js` `JWT` `bcrypt` `Express.js`
+A full-stack eCommerce application built with production intent — covering authentication, inventory, payments, and analytics.
+
+**What's inside:**
+- Secure auth with JWT, bcrypt, session management, and **Google OAuth** via Passport.js
+- Admin dashboard: product & category management, coupon system, sales report generation
+- AJAX-powered product listing with live search, debouncing, filters (category, price range, sort), and pagination
+- Image pipeline: client-side cropping with **CropperJS** → upload to **Cloudinary**
+- Payment integration via **Razorpay**
+- Wishlist, cart, checkout, and order tracking for users
+- MongoDB aggregation pipelines for optimised queries and reporting
+- Centralised error handling with **Winston** logging
+
+`Node.js` `Express.js` `MongoDB` `Mongoose` `EJS` `Tailwind CSS` `Passport.js` `JWT` `Cloudinary` `Razorpay` `CropperJS` `AJAX` `bcrypt` `ESLint` `Prettier`
 
 ---
 
-## 📊 GitHub Stats
+### 🔐 Auth System
+> **[Repository](https://github.com/Anvarsha-1)**
 
-| Metric | Value |
-|--------|-------|
-| Main Project | Giftora eCommerce Platform |
-| Focus Area | Backend Development |
-| Learning Goal | Scalable System Architecture |
+JWT-based authentication with role-based access control (admin/user), bcrypt password hashing, and a Bootstrap-based UI.
+
+`Node.js` `Express.js` `JWT` `bcrypt` `MongoDB` `Bootstrap`
 
 ---
 
-## 🔍 Currently Exploring
+### 📐 DSA Practice — JavaScript
+> **[Repository](https://github.com/Anvarsha-1/DSA)**
 
-- Node.js internals — event loop and async architecture
+Weekly structured DSA practice in JavaScript, organised by week. Used to track progress and hold myself accountable.
+
+`JavaScript` `Algorithms` `Data Structures`
+
+---
+
+### 🌐 UI Clones
+> [Netflix Clone](https://github.com/Anvarsha-1/Netflix-Clone) · [Starbucks Clone](https://github.com/Anvarsha-1/Starbucks-clone) · [Personal Portfolio](https://github.com/Anvarsha-1/Personal-Portfolio)
+
+Static front-end recreations focused on layout precision, responsive design, and CSS fundamentals.
+
+`HTML5` `CSS3` `Responsive Design`
+
+---
+
+## Currently Learning
+
+- Node.js internals — event loop, async patterns, streams
 - System design fundamentals
-- Data structures and algorithms with JavaScript
-- AI-integrated applications
-- MongoDB performance optimisation
+- DSA with JavaScript (active weekly practice)
+- AI integration in web applications
+- MongoDB performance optimisation and indexing strategies
 
 ---
 
-## 📬 Connect With Me
+## GitHub Stats
 
-- 🐙 GitHub: [github.com/Anvarsha-1](https://github.com/Anvarsha-1)
-- 💼 LinkedIn: [linkedin.com/in/anvarsha-b-78a049317](https://www.linkedin.com/in/anvarsha-b-78a049317/)
-- 📧 Email: anvarshaanvar576@gmail.com
+<div align="center">
+
+![Anvarsha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anvarsha-1&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anvarsha-1&layout=compact&theme=github_dark&hide_border=true)
+
+</div>
 
 ---
 
-*"I continuously improve my backend architecture skills, database optimisation knowledge, problem-solving ability, and frontend development practices."*
-(https://giftora-ecomapp.onrender.com)
+## Connect
+
+- 💼 [linkedin.com/in/anvarsha-b-78a049317](https://www.linkedin.com/in/anvarsha-b-78a049317/)
+- 📧 anvarshaanvar576@gmail.com
+- 🐙 [github.com/Anvarsha-1](https://github.com/Anvarsha-1)
+
+---
+
+<div align="center">
+<sub>Continuously improving · backend architecture · database optimisation · problem solving · frontend development</sub>
+</div>
