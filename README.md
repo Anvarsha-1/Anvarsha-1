@@ -66,7 +66,7 @@ I care about understanding *why* things work, not just memorising syntax. My goa
 ## Projects
 
 ### 🛍️ Giftora — eCommerce Platform
-> **[Live Demo](https://giftora-ecom-app.vercel.app) · [Repository](https://github.com/Anvarsha-1/Giftora-EcomApp)**
+> **[Live Demo](https://giftora-ecomapp.onrender.com)) · [Repository](https://github.com/Anvarsha-1/Giftora-EcomApp)**
 
 A full-stack eCommerce application built with production intent — covering authentication, inventory, payments, and analytics.
 
